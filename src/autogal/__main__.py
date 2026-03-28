@@ -35,7 +35,7 @@ async def main():
     orchestrator = AutoGalOrchestrator(writer, artist, coder)
     
     # 4. 执行！
-    prompt = "那天雨很大，撑着伞的我看到了淋成落汤鸡的她。"
+    prompt = "那天雨很大，撑着伞的我看到了淋成落汤鸡的前女友。她穿着一身碎花裙，微卷的头发因雨水贴在了额头上。"
     await orchestrator.run(prompt, output_path, template_path)
 
 if __name__ == "__main__":

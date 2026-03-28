@@ -33,6 +33,9 @@ dependencies = [
     "rich>=13.0.0",
     "click>=8.0.0",
     "aiofiles>=23.0.0",
+    "rembg>=2.0.50",    # 新增：用于自动去除图片背景
+    "Pillow>=10.0.0",   # 新增：Python 图像处理基础库
+    "onnxruntime>=1.14.0",
 ]
 
 [project.optional-dependencies]

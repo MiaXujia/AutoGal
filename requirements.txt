@@ -10,3 +10,8 @@ aiofiles>=23.0.0
 # CLI
 click>=8.0.0
 rich>=13.0.0
+
+# Image Processing (新增抠图依赖)
+rembg>=2.0.50
+Pillow>=10.0.0
+onnxruntime>=1.14.0
