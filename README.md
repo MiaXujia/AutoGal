@@ -1,4 +1,4 @@
-# AutoGal - AI驱动的Ren'Py游戏生成Agent
+# AutoGal - AI驱动的Ren'Py游戏生成 Agentic工作流
 
 AI-powered Ren'Py visual novel generator. Input natural language, output playable game.
 
